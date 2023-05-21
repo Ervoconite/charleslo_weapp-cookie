@@ -1,3 +1,11 @@
+# 本仓库 Fork 自[charleslo1/weapp-cookie: 一行代码让微信、头条、百度、支付宝小程序支持 cookie，兼容 uni-app 🍪🚀 One line of code allows weapp to support cookie（wx weixin wxapp cookie） (github.com)](https://github.com/charleslo1/weapp-cookie)
+
+
+
+---
+
+
+
 # weapp-cookie
 > 一行代码让微信、头条、百度、支付宝小程序支持 cookie，兼容 uni-app
 
